@@ -1,4 +1,5 @@
 import React from "react";
+import "./testimonials.css";
 
 export const Testimonials = (props) => {
   return (
@@ -10,15 +11,16 @@ export const Testimonials = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className="col-md-4 col-sm-6">
                   <div className="testimonial">
                     <div className="testimonial-image">
-                      {" "}
-                      <img src={d.img} alt="" />{" "}
+                      <img src={d.img} alt={d.name} />
                     </div>
                     <div className="testimonial-content">
                       <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
+                      <div className="testimonial-meta">
+                        <strong>{d.name}</strong>
+                      </div>
                     </div>
                   </div>
                 </div>

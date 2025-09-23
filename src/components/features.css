@@ -1,0 +1,18 @@
+/* Features/Stats Section - Bootstrap Compatible */
+#features .row {
+  text-align: center;
+}
+
+#features .col-xs-6,
+#features .col-md-3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Override the problematic i.fa styles from main CSS */
+#features i.fa {
+  width: auto !important;
+  text-align: center !important;
+  margin: 0 auto 20px !important;
+  display: block !important;
+}
