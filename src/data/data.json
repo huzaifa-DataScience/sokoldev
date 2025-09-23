@@ -1,15 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Ideas to Impact Code to Growth",
+    "paragraph": "From emerging startups to scaling companies and established enterprises, we partner with businesses of every size. Our mission is simple: to craft technology solutions that turn your vision into measurable success"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are passionate about turning ideas into powerful digital solutions. With a team of creative thinkers and skilled developers, we help businesses of all sizes embrace technology to grow, innovate, and succeed. From startups to established enterprises, we craft solutions that are reliable, scalable, and tailored to your unique needs. \n\nAt the heart of what we do is a simple belief: technology should empower people, not complicate their lives. That’s why we focus on delivering user-friendly designs, seamless functionality, and long-lasting value.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+    "Expertise across modern technologies",
+"Tailor-made solutions for your business",
+"Transparent communication & collaboration",
+"Scalable systems built for growth",
+"Creative designs that engage users",
+"Reliable support every step of the way"
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -20,135 +22,141 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Broker App",
+      "largeImage": "img/portfolio/Broker.png",
+      "smallImage": "img/portfolio/Broker.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Education App",
+      "largeImage": "img/portfolio/Education.png",
+      "smallImage": "img/portfolio/Education.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Fluffy Ounce",
+      "largeImage": "img/portfolio/fluffyOunce.png",
+      "smallImage": "img/portfolio/fluffyOunce.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Go Vote",
+      "largeImage": "img/portfolio/goVote.jpg",
+      "smallImage": "img/portfolio/goVote.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Green Egg",
+      "largeImage": "img/portfolio/greenEgg.png",
+      "smallImage": "img/portfolio/greenEgg.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Hotel & Restaurant Booking",
+      "largeImage": "img/portfolio/Hotel&RestaurantBooking.png",
+      "smallImage": "img/portfolio/Hotel&RestaurantBooking.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Just Friends",
+      "largeImage": "img/portfolio/JustFriends.png",
+      "smallImage": "img/portfolio/JustFriends.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Leasing Flow",
+      "largeImage": "img/portfolio/leasingFlow.png",
+      "smallImage": "img/portfolio/leasingFlow.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Medical App",
+      "largeImage": "img/portfolio/medical.jpg",
+      "smallImage": "img/portfolio/medical.jpg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/website.png",
+      "name": "Web Development",
+      "text": "Custom, responsive websites and web applications built for performance, scalability, and your specific business goals."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/mobile.png",
+      "name": "Mobile App Development",
+      "text": "Creating intuitive and powerful native and cross-platform mobile apps for iOS and Android that deliver a flawless user experience."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/uxui.png",
+      "name": "UX/UI Design",
+      "text": "Crafting beautiful, user-centric interfaces that are not only visually appealing but also intuitive and easy to navigate."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/ai.png",
+      "name": "Artificial Intelligence",
+      "text": "Building intelligent AI and machine learning solutions to automate processes, analyze data, and drive innovation."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/cloudService.png",
+      "name": "Cloud Services",
+      "text": "Secure and scalable cloud infrastructure solutions for deployment, storage, and management to empower your business."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "image": "img/services/projectManagement.png",
+      "name": "Project Management",
+      "text": "Expert oversight using agile methodologies to ensure your projects are delivered on time, within scope, and on budget."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Sokoldev didn't just build us a website - they built us a digital empire. Our online sales increased by 300% in the first month. They truly made the impossible possible!\"",
+      "name": "Michael Chen"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Working with Sokoldev was like having a team of wizards on our side. They transformed our outdated systems into cutting-edge AI-powered solutions that our competitors can only dream of.\"",
+      "name": "Marcus Rodriguez"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The mobile app they developed for us exceeded every expectation. Users can't stop raving about the smooth experience. Sokoldev turned our vision into reality and then some!\"",
+      "name": "Ethan Watson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"From concept to launch in record time! Sokoldev's project management skills are unmatched. They delivered our cloud infrastructure project two weeks early and under budget.\"",
+      "name": "Maria Estrella"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Their UX/UI design work is pure magic. Our customer satisfaction scores went through the roof after the redesign. Sokoldev doesn't just meet expectations - they shatter them!\"",
+      "name": "Alex Johnson"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Sokoldev took our startup from zero to hero. Their expertise across web, mobile, and AI helped us secure our Series A funding. They're not just developers - they're growth partners.\"",
+      "name": "Shanae Randall"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/karim.jpg",
+      "name": "Muhammad Karim ",
+      "job": "CEO"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Basitkhan.png",
+      "name": "Basit Khan",
+      "job": "Co Founder"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/furqan.jpg",
+      "name": "Furqan Ahmed",
+      "job": "Co Founder"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/zafer.jpg",
+      "name": "Zafer Khan",
+      "job": "Operation Manager"
     }
   ],
   "Contact": {
@@ -162,23 +170,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "100+ ",
+      "text": "Clients"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "100+ ",
+      "text": " Projects Delivered"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "10+ ",
+      "text": "Countries"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "98% ",
+      "text": "Positive Feedback"
     }
   ]
 }
