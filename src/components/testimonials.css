@@ -1,0 +1,138 @@
+/* Testimonials Section */
+#testimonials {
+  padding: 80px 0;
+  background: #f8f9fa;
+}
+
+.section-title h2 {
+  margin-bottom: 50px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Individual Testimonial */
+.testimonial {
+  background: white;
+  padding: 30px 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.testimonial:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Testimonial Image */
+.testimonial-image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.testimonial-image img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #667eea;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Testimonial Content */
+.testimonial-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.testimonial-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 20px;
+  font-style: italic;
+  flex: 1;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.testimonial-meta {
+  text-align: center;
+  margin-top: auto;
+}
+
+.testimonial-meta strong {
+  color: #667eea;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #testimonials {
+    padding: 60px 0;
+  }
+  
+  .section-title h2 {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+  
+  .testimonial {
+    padding: 25px 20px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-image img {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .testimonial-content p {
+    font-size: 15px;
+    min-height: 70px;
+  }
+}
+
+/* Ensure equal heights in rows */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-md-4, .col-sm-6 {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+/* Animation for testimonials */
+.testimonial {
+  opacity: 0;
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.testimonial:nth-child(1) { animation-delay: 0.1s; }
+.testimonial:nth-child(2) { animation-delay: 0.2s; }
+.testimonial:nth-child(3) { animation-delay: 0.3s; }
+.testimonial:nth-child(4) { animation-delay: 0.4s; }
+.testimonial:nth-child(5) { animation-delay: 0.5s; }
+.testimonial:nth-child(6) { animation-delay: 0.6s; }
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
